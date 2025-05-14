@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+#hero{
+background-image: url("../img/bg-site.jpeg");	
+background-size:cover;
+background-position: center;
+padding: 10% 0;
+}
+
+.titulo-principal{
+ font-family: "Dosis", sans-serif;
+ color: #fff;
+font-weight: 500;
+font-size: 50px;
+}
+
+body{
+font-family: "Roboto", sans-serif;
+color: #fff;
+}
+
+.btn-primary{
+	background-color: transparent;
+	padding: 15px 40px;
+	text-transform: uppercase;
+	font-weight: 600;
+	border-style: solid;
+	border-radius: 25px;
+	margin-top: 20px;
+	border-color: #fff;
+}
+
+
+#features{
+padding-top: 50px;
+text-align: center;
+background-color:#fff;
+padding-bottom: 50px;
+color: #111111;
+}
+
+#features article i.icono-color {
+  color: #f5593d;
+}
+
+#screenshots{
+background-color: #f5fafd; 
+color:#66615b;	
+padding: 40px 20px;
+text-align: center;
+margin-bottom: 20px;
+}
+
+.carousel-item{
+max-width: 80%;
+text-align: center; 
+margin: 0 auto;
+}
+
+footer{
+color:#fff;
+}
+
